@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add New Address"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/addressNameEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Address Name (e.g., Home, Work)"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/addressLineEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Address Line"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/cityEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="City"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/countryEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Country"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/postalCodeEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Postal Code (optional)"
+        android:inputType="number"
+        android:layout_marginBottom="8dp" />
+
+    <CheckBox
+        android:id="@+id/defaultCheck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set as default address"
+        android:layout_marginBottom="16dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end">
+
+        <Button
+            android:id="@+id/cancelButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:textColor="@android:color/white"
+            android:layout_marginEnd="8dp" />
+
+        <Button
+            android:id="@+id/saveButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:backgroundTint="@android:color/holo_blue_dark"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</LinearLayout>

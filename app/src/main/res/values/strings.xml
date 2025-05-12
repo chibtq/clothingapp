@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClothingApp</string>
+    <string name="product_image">Product Image</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="no_orders_found">No orders found</string>
+    <string name="supabase_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZtaGVpZHFwZXBoanBzZ2p1dXBmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDUyMjg4MDQsImV4cCI6MjA2MDgwNDgwNH0.WpQCVisc1RgC8txB1zHEZlOZob2HkxMErIiuNGczYqI</string>
+    <string name="supabase_service_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZtaGVpZHFwZXBoanBzZ2p1dXBmIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0NTIyODgwNCwiZXhwIjoyMDYwODA0ODA0fQ.Ocy0pqbe_3jyI_Psd4NK1hTZrRl1sGN1lUjxySFq61I</string>
+    <string name="sendgrid_api_key">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</string>
+</resources>
+

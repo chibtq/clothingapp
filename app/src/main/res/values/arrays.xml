@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_criteria">
+        <item>Theo thời gian (mới nhất)</item>
+        <item>Theo thời gian (cũ nhất)</item>
+        <item>Theo giá tiền (cao đến thấp)</item>
+        <item>Theo giá tiền (thấp đến cao)</item>
+        <item>Theo Order ID (A-Z)</item>
+        <item>Theo Order ID (Z-A)</item>
+    </string-array>
+
+    <string-array name="statistics_criteria">
+        <item>Số lượng đơn hàng</item>
+        <item>Doanh thu</item>
+        <item>Hàng tồn kho</item>
+        <item>Sản phẩm bán chạy</item>
+        <item>Người dùng đăng ký</item>
+        <item>Số lượng bình luận</item>
+        <item>Sản phẩm được yêu thích</item>
+        <item>Doanh thu theo sản phẩm</item>
+    </string-array>
+
+    <string-array name="most_least_options">
+        <item>Nhiều nhất</item>
+        <item>Ít nhất</item>
+    </string-array>
+
+    <string-array name="limit_options">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+</resources>

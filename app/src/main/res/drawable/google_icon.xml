@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,12m-12,0a12,12 0,1,1 24,0a12,12 0,1,1 -24,0"
+        android:strokeWidth="1"
+        android:strokeColor="#EA4335" />
+    <!-- Simplified "G" shape -->
+    <path
+        android:fillColor="#EA4335"
+        android:pathData="M12,5a7,7 0,0,1 5.5,2.8l-2,2A4,4 0,0,0 12,8a4,4 0,0,0 -4,4a4,4 0,0,0 4,4c1,0 2,-0.4 2.7,-1l2,2A7,7 0,0,1 12,19a7,7 0,0,1 0,-14z" />
+</vector>
