@@ -7,8 +7,8 @@ Mô tả bài toán:
    . Đối với lịch sử đặt hàng sẽ có: thông tin về lịch sử đặt hàng bao gồm các mặt hàng giá tiền từng mặt hàng , tổng bao nhiêu, có mã giảm giá không.
    .  Đối với thống kê  sẽ mô tả chi tiết ở phần dưới
    . Đối với đổi mật khẩu: bao gồm việc nhập mật khẩu cũ và nhập mật khẩu mới, sau khi đổi mật khẩu mới sẽ có thông báo ở mail người dùng.
-**- 4, Đối với chức năng cart thì có thể hiển thị giỏ hàng hiện tại đang thêm bớt cái gì như nào (layout mô tả khái quát sẽ có từng sản phẩm theo dòng, số lượng ,dưới có ô nhập mã giảm giá (nếu có có thể nhập), subtotal,fee delivery, totaltax, total). Khi bấm đặt hàng có thể hiển thị thông tin hóa đơn đã đặt hàng và các thông tin chi tiết đi kèm.
-**
+- 4, Đối với chức năng cart thì có thể hiển thị giỏ hàng hiện tại đang thêm bớt cái gì như nào (layout mô tả khái quát sẽ có từng sản phẩm theo dòng, số lượng ,dưới có ô nhập mã giảm giá (nếu có có thể nhập), subtotal,fee delivery, totaltax, total). Khi bấm đặt hàng có thể hiển thị thông tin hóa đơn đã đặt hàng và các thông tin chi tiết đi kèm.
+
 - 5, Đối với wishlist sẽ hiển thị các mục mà mình có ấn thích sản phẩm.
 - 6, Đối với phía admin sẽ có thêm chức năng thống kê riêng.
 
